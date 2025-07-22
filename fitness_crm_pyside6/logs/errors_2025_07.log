@@ -1,0 +1,14 @@
+2025-07-22 10:28:50 | ERROR    | __main__:main:42 | ❌ Не вдалося підключитися до бази даних
+2025-07-22 10:58:10 | ERROR    | __main__:main:90 | 💥 Критична помилка: 'secondary'
+2025-07-22 14:56:05 | ERROR    | __main__:main:90 | 💥 Критична помилка: 'ClientsPage' object has no attribute '_create_grid_layout'
+2025-07-22 14:56:39 | ERROR    | __main__:main:90 | 💥 Критична помилка: 'ClientsPage' object has no attribute '_create_grid_layout'
+2025-07-22 15:38:59 | ERROR    | __main__:main:90 | 💥 Критична помилка: 'PySide6.QtWidgets.QScrollArea.__init__' called with wrong argument types:
+  PySide6.QtWidgets.QScrollArea.__init__(Orientation)
+Supported signatures:
+  PySide6.QtWidgets.QScrollArea.__init__(parent: PySide6.QtWidgets.QWidget | None = None, *, widgetResizable: bool | None = None, alignment: PySide6.QtCore.Qt.AlignmentFlag | None = None)
+2025-07-22 15:40:40 | ERROR    | __main__:main:90 | 💥 Критична помилка: 'PySide6.QtWidgets.QScrollArea.__init__' called with wrong argument types:
+  PySide6.QtWidgets.QScrollArea.__init__(Orientation)
+Supported signatures:
+  PySide6.QtWidgets.QScrollArea.__init__(parent: PySide6.QtWidgets.QWidget | None = None, *, widgetResizable: bool | None = None, alignment: PySide6.QtCore.Qt.AlignmentFlag | None = None)
+2025-07-22 15:42:40 | ERROR    | __main__:main:90 | 💥 Критична помилка: type object 'FluentIcon' has no attribute 'PIE_CHART'
+2025-07-22 15:43:25 | ERROR    | __main__:main:90 | 💥 Критична помилка: type object 'FluentIcon' has no attribute 'GRAPH'
